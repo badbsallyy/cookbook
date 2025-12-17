@@ -1,6 +1,32 @@
-# Contributing to the Gemini API Cookbook
+# Contributing to the Gemini Agent Development Guide
 
-We would love to accept your patches and contributions to the Gemini API Cookbook. We are excited that you are considering donating some of your time, and this guide will help us be respectful of that time.
+We would love to accept your patches and contributions to the Gemini Agent Development Guide. We are excited that you are considering donating some of your time, and this guide will help us be respectful of that time.
+
+## About This Repository
+
+This repository has been restructured to focus on **agent development**. The main content is now in the **[agent-guide/](./agent-guide/)** directory, which provides:
+
+- **Markdown documentation** optimized for LLM consumption
+- **Python code examples** in the [agent-guide/examples/code/](./agent-guide/examples/code/) directory
+- **Focused agent patterns** (ReAct, chaining, multi-turn)
+- **Production-ready best practices**
+
+The original Jupyter notebooks remain in [quickstarts/](./quickstarts/) and [examples/](./examples/) for reference, but new contributions should focus on the agent-guide structure.
+
+## What We're Looking For
+
+### Priority Contributions
+1. **New agent patterns** - Novel approaches to building agents
+2. **Working code examples** - Production-ready Python scripts
+3. **Best practices** - Real-world learnings from building agents
+4. **Tool integrations** - Examples of connecting to external APIs
+5. **Error handling patterns** - Robust error management strategies
+
+### Documentation Format
+- **Markdown files** (`.md`) for all documentation
+- **Python files** (`.py`) for code examples
+- Clear, concise writing optimized for both human and LLM readers
+- Practical, runnable examples
 
 # Before you send anything
 
