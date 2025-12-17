@@ -37,7 +37,7 @@ Der [quickstarts Ordner](./quickstarts/) enthält Schritt-für-Schritt-Tutorials
 
 **Weitere wichtige Quickstarts:**
 *  [Get started with Live API](./quickstarts/Get_started_LiveAPI.ipynb): Multimodale Live API
-*  [Function Calling](./quickstarts/Function_Calling.ipynb): Funktionsaufrufe für Agent-Entwicklung
+*  [Function Calling](./quickstarts/Function_calling.ipynb): Funktionsaufrufe für Agent-Entwicklung
 *  [Code Execution](./quickstarts/Code_Execution.ipynb): Python-Code generieren und ausführen
 *  [Grounding](./quickstarts/Grounding.ipynb): Antworten mit Google Search verankern
 *  [System Instructions](./quickstarts/System_instructions.ipynb): Systemanweisungen für Agents
